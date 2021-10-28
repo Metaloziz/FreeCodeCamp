@@ -1,0 +1,7 @@
+var myList = [];
+
+myList.push(["milck",1])
+myList.push(["bread",2])
+myList.push(["salts",1])
+myList.push(["sugar",1])
+myList.push(["spagetty",3])
