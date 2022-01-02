@@ -1,0 +1,31 @@
+function getIndexToIns(arr, num) {
+
+
+    let quickSort = (array) => {
+
+        if (array.length <= 1) {
+            return array
+        }
+        let helpIndex = Math.floor(array.length / 2)
+        let helpItem = array[helpIndex]
+        let less = []
+        let greatest = []
+        for (let index = 0; index < array.length; index++) {
+            if (index === helpIndex) continue
+            if (array[index] < helpItem) {
+                less.push(array[index])
+            } else {
+                greatest.push(array[index])
+            }
+        }
+        return [...quickSort(less), helpItem, ...quickSort(greatest)]
+    }
+    let sortArr = quickSort(arr)
+
+ if (Math.max(...sortArr) > num) {
+        return sortArr.indexOf(sortArr.find(l => l >= num))
+    }
+    return sortArr.length
+}
+
+getIndexToIns([40, 60], 50);
