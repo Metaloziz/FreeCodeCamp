@@ -3,3 +3,5 @@ let myArray = ["a", "b", "c", "d"];
 myArray[1]=true
 // Only change code above this line
 console.log(myArray);
+
+// test
