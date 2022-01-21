@@ -5,3 +5,4 @@ myArray[1]=true
 console.log(myArray);
 
 // test
+// test2
