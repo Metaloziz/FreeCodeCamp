@@ -4,5 +4,6 @@ myArray[1]=true
 // Only change code above this line
 console.log(myArray);
 
-// test
+// test -- active
+// test2  -- NOT active
 // test2
