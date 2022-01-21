@@ -6,4 +6,5 @@ console.log(myArray);
 
 // test -- active
 // test2  -- NOT active
-// test2
+// test3  -- NOT active
+// test4
