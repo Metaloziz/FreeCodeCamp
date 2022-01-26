@@ -1,0 +1,14 @@
+<h1>How to Become a Ninja</h1>
+<main>
+  <h1>Learn the Art of Moving Stealthily</h1>
+  <h3>How to Hide in Plain Sight</h3>
+  <h3>How to Climb a Wall</h3>
+
+  <h3>Learn the Art of Battle</h3>
+  <h3>How to Strengthen your Body</h3>
+  <h3>How to Fight like a Ninja</h3>
+
+  <h3>Learn the Art of Living with Honor</h3>
+  <h4>How to Breathe Properly</h4>
+  <h4>How to Simplify your Life</h4>
+</main>
