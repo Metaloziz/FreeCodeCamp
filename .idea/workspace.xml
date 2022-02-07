@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5087282-2ac6-4efc-9d45-cb812efe682e" name="Changes" comment="test_commit_for_verification">
+      <change beforePath="$PROJECT_DIR$/JSBE/test_verification.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSBE/test_verification.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Metaloziz &lt;92404106+metaloziz@users.noreply.github.com&gt;" />
+        <option value="Andrew Gaityukevich &lt;andrewgaity@yandex.by&gt;" />
+        <option value="GitHub &lt;noreply@github.com&gt;" />
+        <option value="Metaloziz &lt;tesla9760614&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="218gevfuFTy7iah8EbpwYg9hy8O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../samurai_way_my" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Repository\1st_month\FreeCodeCamp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.propmise.js">
+    <configuration name="free_code_camp.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/free_code_camp.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="propmise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/propmise.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.propmise.js" />
+        <item itemvalue="Node.js.free_code_camp.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5087282-2ac6-4efc-9d45-cb812efe682e" name="Changes" comment="" />
+      <created>1637328228361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637328228361</updated>
+      <workItem from="1637328229904" duration="1852000" />
+      <workItem from="1641037318601" duration="2445000" />
+      <workItem from="1641133509091" duration="3109000" />
+      <workItem from="1642751127471" duration="197000" />
+      <workItem from="1642751449849" duration="346000" />
+      <workItem from="1642752822560" duration="928000" />
+      <workItem from="1642764838761" duration="1210000" />
+      <workItem from="1642801143686" duration="10083000" />
+      <workItem from="1642947073330" duration="1428000" />
+      <workItem from="1643016533505" duration="995000" />
+      <workItem from="1643199007390" duration="3425000" />
+      <workItem from="1643783077613" duration="805000" />
+      <workItem from="1643892163718" duration="511000" />
+      <workItem from="1643961426080" duration="416000" />
+      <workItem from="1643961887236" duration="1514000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit_without_files_before_pull">
+      <created>1641133771941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641133771941</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add_all_files_to_git">
+      <created>1641134005067</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641134005067</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add_all_files_to_git">
+      <created>1642752919765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642752919765</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add_all_files_to_git">
+      <created>1642753306666</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642753306687</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add_all_files_to_git">
+      <created>1642753344816</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642753344816</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add_all_files_to_git">
+      <created>1642753413154</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642753413154</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add_all_files_to_git">
+      <created>1642753481321</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642753481321</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test_commit_for_verification">
+      <created>1642753571814</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642753571814</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test_commit_for_verification">
+      <created>1642753624225</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1642753624225</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test_commit_for_verification">
+      <created>1642753692583</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1642753692583</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test_commit_for_verification">
+      <created>1642801852541</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1642801852541</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test_commit_for_verification">
+      <created>1642802003069</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1642802003069</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test_commit_for_verification">
+      <created>1642802088578</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1642802088579</updated>
+    </task>
+    <task id="LOCAL-00014" summary="test_commit_for_verification">
+      <created>1642802154879</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1642802154879</updated>
+    </task>
+    <task id="LOCAL-00015" summary="test_commit_for_verification">
+      <created>1642802289040</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1642802289040</updated>
+    </task>
+    <task id="LOCAL-00016" summary="test_commit_for_verification">
+      <created>1642947538668</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1642947538668</updated>
+    </task>
+    <task id="LOCAL-00017" summary="test_commit_for_verification">
+      <created>1642947765780</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1642947765780</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit_without_files_before_pull" />
+    <MESSAGE value="add_all_files_to_git" />
+    <MESSAGE value="test_commit_for_verification" />
+    <option name="LAST_COMMIT_MESSAGE" value="test_commit_for_verification" />
+  </component>
+</project>
