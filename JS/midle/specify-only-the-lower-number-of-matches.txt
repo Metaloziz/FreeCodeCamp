@@ -1,0 +1,3 @@
+let haStr = "Hazzzzah";
+let haRegex = /Haz{3,}zah/;
+let result = haRegex.test(haStr);

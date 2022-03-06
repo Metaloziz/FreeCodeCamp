@@ -1,6 +1,0 @@
-let myNestedArray = [
-  // Only change code below this line
-  ['unshift', false, 1, ['loop', 'shift', 6, 1,'deep', ['concat', false, true, 'spread', 'deeper',['deepest']]],
- 
-  // Only change code above this line
-]]
